@@ -15,6 +15,8 @@ Passionate and experienced Frontend Developer with a strong background in web te
 - **Styling**: Bootstrap, Angular Material
 - **Cloud Technologies**: Azure, AWS, Google Cloud
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hamzarehman033&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
 ### 📞 Contact Me:
 - Email: [Hamzarehman033@gmail.com](mailto:Hamzarehman033@gmail.com)
 - LinkedIn: [linkedin.com/Hamza-rehman033](https://linkedin.com/Hamza-rehman033)
