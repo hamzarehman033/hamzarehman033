@@ -4,7 +4,7 @@
 
 Passionate and experienced Angular Developer with a strong background in web technologies. I enjoy building web applications, designing and developing user interfaces using best practices for both desktop and mobile web apps. I consistently deliver high user experience scores and excel in implementing new features, writing and testing code, and optimizing application performance.
 
-## 🛠️ Skills
+### 🛠️ Skills
 
 - **Frontend**: Angular, React, JavaScript, HTML, CSS
 - **Backend**: Node.js, ExpressJs
@@ -13,8 +13,8 @@ Passionate and experienced Angular Developer with a strong background in web tec
 - **Development Practices**: Continuous integration, Unit testing, TDD
 - **Styling**: Bootstrap, Angular Material
 - **Cloud Technologies**: Azure, AWS, Google Cloud
-  
-📞 **Contact Me**:
+
+### 📞 Contact Me:
 - Email: [Hamzarehman033@gmail.com](mailto:Hamzarehman033@gmail.com)
 - LinkedIn: [linkedin.com/Hamza-rehman033](https://linkedin.com/Hamza-rehman033)
 
