@@ -13,13 +13,6 @@
 ### 💻 Frontend Developer ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white) ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
 
-📞 **Contact Me**:
-- Phone: +92 336 0330330
-- Email: [Hamzarehman033@gmail.com](mailto:Hamzarehman033@gmail.com)
-- LinkedIn: [linkedin.com/Hamza-rehman033](https://linkedin.com/Hamza-rehman033)
-
----
-
 ## 🛠️ Skills
 
 - **Frontend**: Angular, React, JavaScript, HTML, CSS
@@ -28,7 +21,14 @@
 - **System Knowledge**: Windows, Linux
 - **Development Practices**: Continuous integration, Unit testing, TDD
 - **Styling**: Bootstrap, Angular Material
-- **Cloud Technologies**
+- **Cloud Technologies**: Azure, AW, Google Cloud
+  
+📞 **Contact Me**:
+- Email: [Hamzarehman033@gmail.com](mailto:Hamzarehman033@gmail.com)
+- LinkedIn: [linkedin.com/Hamza-rehman033](https://linkedin.com/Hamza-rehman033)
+
+---
+
 
 ---
 
