@@ -8,10 +8,11 @@
 
 
 
-# Hi there, I'm Hamza Rehman 👋
-
-### Frontend Developer | Angular | NodeJs | React | JavaScript
-
+# 👋 Hi there, I'm Hamza Rehman 
+# I'm Hamza Rehman 
+### 💻 Frontend Developer
+#### Angular | NodeJs | React | JavaScript
+- **Frontend**: ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white) ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ---
 
 📞 **Contact Me**:
@@ -79,6 +80,7 @@ _Dec 2019 - Aug 2020_
   - Global College, Peshawar (2012-2014)
 
 ---
+
 
 ## 🌟 About Me
 
