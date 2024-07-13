@@ -13,6 +13,10 @@
 ### 💻 Frontend Developer ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white) ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
 
+## 🌟 About Me
+
+Passionate and experienced Angular Developer with a strong background in web technologies. I enjoy building web applications, designing and developing user interfaces using best practices for both desktop and mobile web apps. I consistently deliver high user experience scores and excel in implementing new features, writing and testing code, and optimizing application performance.
+
 ## 🛠️ Skills
 
 - **Frontend**: Angular, React, JavaScript, HTML, CSS
@@ -21,74 +25,13 @@
 - **System Knowledge**: Windows, Linux
 - **Development Practices**: Continuous integration, Unit testing, TDD
 - **Styling**: Bootstrap, Angular Material
-- **Cloud Technologies**: Azure, AW, Google Cloud
+- **Cloud Technologies**: Azure, AWS, Google Cloud
   
 📞 **Contact Me**:
 - Email: [Hamzarehman033@gmail.com](mailto:Hamzarehman033@gmail.com)
 - LinkedIn: [linkedin.com/Hamza-rehman033](https://linkedin.com/Hamza-rehman033)
 
----
 
-
----
-
-## 💼 Experience
-
-### Frontend Engineer (Angular) @ Infiniun
-_Aug 2023 – Present_
-
-- Enhancing Real Estate projects management system
-- Adding features like sales, leads, and payments integration
-- Resolving complex technical bugs and issues
-
-### Trainee System Engineer @ OGDCL
-_March 2022 – Mar 2023_
-
-- Worked on enterprise ERP applications (SAP, Maximo)
-- Developed Web Apps for Material management in Plant
-- Managed Network system and System Security
-
-### Angular Developer @ Computax Services
-_March 2021 – Mar 2022_
-
-- Worked with a US-based company as an Angular developer
-- Implemented new features and performed unit testing and bug removal
-- Utilized Agile methodology
-
-### Full Stack Developer (MEAN) @ Freelancing
-_Aug 2020 – Mar 2021_
-
-- Developed complex Admin panels for Web Apps
-- Created Backend systems in NodeJS with MongoDB
-
-### Full Stack Developer (MEAN) @ UZR Technologies
-_Dec 2019 - Aug 2020_
-
-- Worked on various projects as a MEAN stack developer
-- Created reusable templates in Angular from UI Design
-
----
-
-## 🎓 Education
-
-- **Bachelor of Computer Science**
-  - Kohat University of Science and Technology, Kohat (2015-2019)
-
-- **Intermediate**
-  - Global College, Peshawar (2012-2014)
-
----
-
-
-## 🌟 About Me
-
-Passionate and experienced Angular Developer with a strong background in web technologies. I enjoy building web applications, designing and developing user interfaces using best practices for both desktop and mobile web apps. I consistently deliver high user experience scores and excel in implementing new features, writing and testing code, and optimizing application performance.
-
----
-
-## 📚 Hobbies
-
-When I'm not coding, you can find me indulging in books, video games, and cycling.
 
 <!---
 hamzarehman033/hamzarehman033 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
